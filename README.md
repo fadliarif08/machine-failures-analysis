@@ -1,7 +1,5 @@
 # maintenance-predictions
-Data Science project using Python. Create machine learning model (SVM and Logistic Regression) to predict whether or not the machine will failure at certain condition. Later on we can do the maintenance to the machine that we predicted to be failured.
-
-Achieved 86.2 % accuracy on testing set and 93.9 % accuracy on training set using non linear SVM, successfully predicted 84 % of machine that were failure and 88 % of machine were not failure
+Data Science project using Python. Analyze factor that caused machine failure. Later on, build and compared several machine learning model (SVM, Logistic Regression, and KNN) to predict whether or not the machine will failure at certain condition. Later on we can do the maintenance to the machine that we predicted to be failured.
 
 Dataset
 
