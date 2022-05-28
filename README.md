@@ -1,5 +1,5 @@
 # maintenance-predictions
-Data Science project using Python. Analyze factor that caused machine failure. Later on, build and compared several machine learning model (SVM, Logistic Regression, and KNN) to predict whether or not the machine will failure at certain condition. Later on we can do the maintenance to the machine that we predicted to be failured.
+Data Science project using Python. Analyze factor that caused machine failure. Later on, build and compared several machine learning model (SVM, Logistic Regression, and KNN) to predict whether or not the machine will failure at certain condition.
 
 Dataset
 
