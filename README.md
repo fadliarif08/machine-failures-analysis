@@ -3,10 +3,10 @@ Data science project using Python. Analyze several condition that make the machi
 
 Objective:
 
-identify what are the most frequent type of failure occurs and why it happens
-determine the correlation between type of machine with the occurance of the failure case
-determine which condition (features) that tend to make the machine failure
-compare several model (SVM, Logistic Regression, KNN, and Decision Tree) to see how accurate it is in predicting failured.
+- Identify what are the most frequent type of failure occurs and why it happens
+- Determine the correlation between type of machine with the occurance of the failure case
+- Determine which condition (features) that tend to make the machine failure
+- Compare several model (SVM, Logistic Regression, KNN, and Decision Tree) to see how accurate it is in predicting failured.
 
 Dataset
 
@@ -27,6 +27,6 @@ The dataset consists of 10 000 data points stored as rows with 14 features in co
 
 Note:
 
-All features are unscaled and there were some miss imputed on the target's feature, there are some machine that were failure imputed as not failure, so we need to crosscheck it to the failure's type features.
-There are no "Null" values, so we don't have to work on ways to replace values.
-Most of the case were no failure (96.5 %) of the time, while failure occurs (3.5 %) of the time in the dataframe
+- All features are unscaled and there were some miss imputed on the target's feature, there are some machine that were failure imputed as not failure, so we need to crosscheck it to the failure's type features.
+- There are no "Null" values, so we don't have to work on ways to replace values.
+- Most of the case were no failure (96.5 %) of the time, while failure occurs (3.5 %) of the time in the dataframe
